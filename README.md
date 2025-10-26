@@ -21,7 +21,7 @@ Projeto em Python para testar e avaliar prompts em modelos de linguagem usando a
 
 🚀 **Como usar**  
 
-[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eduardaqueiroga/prompt-optimizer/blob/main/prompt-optimizer.ipynb)  
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eduardaqueiroga/prompt-optimizer/blob/main/prompt_optimizer.ipynb)  
 
 1. Abra o notebook no Colab clicando no botão acima.  
 2. Execute a célula de configuração da API.  
